@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-
 }
 
 .App-header {
@@ -13,7 +12,6 @@
 
 body {
   background-color: #f2f2e8;
-
 }
 
 .left {
@@ -30,25 +28,25 @@ body {
   font-size: 25px;
   font-weight: 600;
   letter-spacing: 0.3px;
-  font-family: 'Mukta', sans-serif;
+  font-family: "Mukta", sans-serif;
 }
 
 button {
   border-radius: 2px;
   min-width: 88px;
-  background-color: #FA6900;
+  background-color: #fa6900;
   cursor: pointer;
   border: 0;
   min-width: 120px;
   color: #fff;
   font-size: 14px;
-  box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
   padding: 10px 6px;
 }
 
 .catalog {
   padding-left: 15px;
-  background-image: url('book-shelves.jpg');
+  background-image: url("./book-shelves.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 800px;
@@ -61,15 +59,15 @@ button {
 }
 
 .course-number-button {
-     background:none!important;
-     color:inherit;
-     border:none;
-     padding:0!important;
-     box-shadow: none;
-     font: inherit;
-     font-style: italic;
-     cursor: pointer;
-     text-align: left;
+  background: none !important;
+  color: inherit;
+  border: none;
+  padding: 0 !important;
+  box-shadow: none;
+  font: inherit;
+  font-style: italic;
+  cursor: pointer;
+  text-align: left;
 }
 
 .course-number-button:hover {
@@ -77,10 +75,10 @@ button {
   text-decoration: underline;
 }
 
-.divider{
-    width:25px;
-    height:auto;
-    display:inline-block;
+.divider {
+  width: 25px;
+  height: auto;
+  display: inline-block;
 }
 
 form button {
@@ -93,7 +91,7 @@ form button {
   padding: 15px;
   text-align: center;
   font-size: 72px;
-  font-family: 'Mukta', sans-serif;
+  font-family: "Mukta", sans-serif;
 }
 
 .white-page-banner {
@@ -101,8 +99,7 @@ form button {
   text-align: center;
   font-size: 52px;
   color: white;
-  font-family: 'Mukta', sans-serif;
-
+  font-family: "Mukta", sans-serif;
 }
 
 .black-page-banner {
@@ -110,12 +107,11 @@ form button {
   text-align: center;
   font-size: 52px;
   color: black;
-  font-family: 'Mukta', sans-serif;
-
+  font-family: "Mukta", sans-serif;
 }
 
 .Home {
-  background-image: url('classroom.jpg');
+  background-image: url("classroom.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 800px;
@@ -139,7 +135,6 @@ input {
 
 .main-content {
   padding: 15px 15px 15px 15px;
-
 }
 
 .classDetailsDialog {
@@ -154,8 +149,8 @@ input {
 }
 
 .ReactModal__Overlay {
-    width: 500px;
-    height: 450px;
+  width: 500px;
+  height: 450px;
 }
 
 .topic-selector {

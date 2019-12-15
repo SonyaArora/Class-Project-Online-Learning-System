@@ -1,5 +1,5 @@
 {
-  "name": "online-classes",
+  "name": "1st-1-to-open",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,5 +29,7 @@
   ],
   "resolutions": {
     "caniuse-lite": "1.0.30000957"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
